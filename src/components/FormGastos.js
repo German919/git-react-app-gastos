@@ -6,6 +6,7 @@ import shortid from "shortid"
 
 import Error from "./Error"
 
+//Paso dos props a la funcion
 const FormGastos = ({nuevoGasto, setCrearGasto}) => {
 
     //STATE PARA EL NOMBRE DEL GASTO
